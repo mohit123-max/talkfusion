@@ -24,8 +24,8 @@ It combines a **frontend client** and a **backend server** to deliver real-time 
 
 - **Frontend:** JavaScript (React)  
 - **Backend:** Node.js, Express  
-- **Database:** (Add MongoDB/MySQL if you’ve configured it)  
-- **Other Tools:** npm, REST API, WebSockets (if used)  
+- **Database:** MongoDB Atlas
+- **Other Tools:** npm, REST API
 
 ---
 
